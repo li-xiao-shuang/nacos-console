@@ -1,5 +1,8 @@
 import { Settings as LayoutSettings } from '@ant-design/pro-layout';
 
+/**
+ * 页面配置
+ */
 const Settings: LayoutSettings & {
   pwa?: boolean;
   logo?: string;

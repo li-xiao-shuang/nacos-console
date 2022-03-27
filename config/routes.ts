@@ -1,4 +1,7 @@
-﻿export default [
+﻿/**
+ * 路由配置
+ */
+export default [
   {
     path: '/user',
     layout: false,
@@ -23,6 +26,25 @@
     name: 'welcome',
     icon: 'smile',
     component: './Welcome',
+  },
+  {
+    path: '/config',
+    name: 'config',
+    icon: 'table',
+    routes: [
+      {
+        path: '/config/list',
+        name: 'list',
+      },
+      {
+        path: '/config/history',
+        name: 'history',
+      },
+      {
+        path: '/config/listener',
+        name: 'listener',
+      }
+    ]
   },
   {
     path: '/admin',

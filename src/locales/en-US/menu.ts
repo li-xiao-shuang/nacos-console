@@ -49,4 +49,10 @@ export default {
   'menu.editor.flow': 'Flow Editor',
   'menu.editor.mind': 'Mind Editor',
   'menu.editor.koni': 'Koni Editor',
+
+  // 配置中心
+  'menu.config':'Configuration management',
+  'menu.config.list':'Configuration list',
+  'menu.config.history':'Version history',
+  'menu.config.listener':'Listening query',
 };

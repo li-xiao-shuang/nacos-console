@@ -61,6 +61,7 @@ declare namespace API {
     status?: string;
   };
 
+  // 登录入参
   type LoginParams = {
     username?: string;
     password?: string;
