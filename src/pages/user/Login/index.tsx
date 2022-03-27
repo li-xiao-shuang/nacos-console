@@ -81,8 +81,8 @@ const Login: React.FC = () => {
       </div>
       <div className={styles.content}>
         <LoginForm
-          logo={<img alt="logo" src="/logo.svg" />}
-          title="Ant Design"
+          logo={<img alt="logo" src="https://nacos.io/img/nacos_colorful.png" />}
+          title="Alibaba Nacos"
           subTitle={intl.formatMessage({ id: 'pages.layouts.userLayout.title' })}
           initialValues={{
             autoLogin: true,
@@ -110,8 +110,7 @@ const Login: React.FC = () => {
               })}
             />
             {/*<Tabs.TabPane*/}
-            {/*  key="mobile"*/}
-            {/*  tab={intl.formatMessage({*/}
+                                                 那美女吧            {/*  tab={intl.formatMessage({*/}
             {/*    id: 'pages.login.phoneLogin.tab',*/}
             {/*    defaultMessage: '手机号登录',*/}
             {/*  })}*/}
