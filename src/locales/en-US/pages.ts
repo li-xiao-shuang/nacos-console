@@ -2,7 +2,7 @@ export default {
   'pages.layouts.userLayout.title':
     'A dynamic service discovery, configuration management and service management platform that makes it easier to build cloud native applications',
   'pages.login.accountLogin.tab': 'Account Login',
-  'pages.login.accountLogin.errorMessage': 'Incorrect username/password(admin/ant.design)',
+  'pages.login.accountLogin.errorMessage': 'Incorrect username/password',
   'pages.login.failure': 'Login failed, please try again!',
   'pages.login.success': 'Login successful!',
   'pages.login.username.placeholder': 'Username: admin or user',

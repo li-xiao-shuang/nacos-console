@@ -110,7 +110,7 @@ const Login: React.FC = () => {
               })}
             />
             {/*<Tabs.TabPane*/}
-                                                 那美女吧            {/*  tab={intl.formatMessage({*/}
+            {/*  tab={intl.formatMessage({*/}
             {/*    id: 'pages.login.phoneLogin.tab',*/}
             {/*    defaultMessage: '手机号登录',*/}
             {/*  })}*/}

@@ -1,7 +1,7 @@
 export default {
   'pages.layouts.userLayout.title': '一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台',
   'pages.login.accountLogin.tab': '账户密码登录',
-  'pages.login.accountLogin.errorMessage': '错误的用户名和密码(admin/ant.design)',
+  'pages.login.accountLogin.errorMessage': '错误的用户名和密码',
   'pages.login.failure': '登录失败，请重试！',
   'pages.login.success': '登录成功！',
   'pages.login.username.placeholder': '用户名: admin or user',
